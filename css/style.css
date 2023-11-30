@@ -1,0 +1,15 @@
+body {
+  background-color: pink;
+  color: white;
+}
+#about > p {
+  color: red;
+}
+
+#about > p:hover {
+  color: white;
+}
+input:focus {
+  border: green solid 5px;
+  outline: none;
+}
